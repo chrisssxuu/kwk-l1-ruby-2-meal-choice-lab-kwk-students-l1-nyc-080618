@@ -8,7 +8,7 @@ end
 puts "What food do you want to eat for breakfast?"
 morning = gets.chomp
 
-def breakfast(morning = "froste")
+def breakfast(morning="frosted flakes")
   "Morning is the best time for #{morning}"
 end
 
