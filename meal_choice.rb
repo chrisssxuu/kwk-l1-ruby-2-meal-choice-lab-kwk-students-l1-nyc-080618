@@ -25,7 +25,10 @@ puts dinner("sushi")
 ## This returns "Any time, is the right time for Sweedish fish!"
 
 # call your methods here
-
+snacks()
+breakfast()
+lunch()
+dinner()
 
 # Call your methods without any arguments here
 puts snacks
