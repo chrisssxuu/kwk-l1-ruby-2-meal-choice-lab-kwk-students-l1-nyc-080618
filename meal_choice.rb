@@ -28,7 +28,6 @@ puts dinner("sushi")
 
 
 # Call your methods without any arguments here
-puts snacks
 breakfast()
 lunch()
 dinner()
